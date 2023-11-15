@@ -1,17 +1,3 @@
-
-img {
-    position: absolute;
-    top: 100px;
-    right: 600px;
-    bottom: 102px;
-    left: 400px;
-    scroll-margin-block:10%;
-    min-height: 25%;
-    height: 20%;
-    border-top-right-radius: 9%;
-    border-end-start-radius: 9%;
-}
-
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
     font-size: 16px;
